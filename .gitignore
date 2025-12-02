@@ -1,0 +1,16 @@
+﻿# Ignore everything by default
+*
+!.gitignore
+!README.md
+
+# Allow the specific directory to be traversed
+!강의_6기_AI응용_7차시_이미지생성형AI/
+
+# Ignore everything inside the target directory
+강의_6기_AI응용_7차시_이미지생성형AI/*
+
+# Allow .ipynb files inside the target directory
+!강의_6기_AI응용_7차시_이미지생성형AI/*.ipynb
+
+# Explicitly ignore files starting with DR in the target directory (even if they are .ipynb)
+강의_6기_AI응용_7차시_이미지생성형AI/DR*

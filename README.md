@@ -1,4 +1,4 @@
-# AI Computer Vision Application Course (Session 7)
+# AI Computer Vision Application Course
 
 ## fork 하시는 경우, readme에 수입일자, 수입목적을 적어주시면 감사하겠습니다 ##
 

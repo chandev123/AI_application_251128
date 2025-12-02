@@ -31,6 +31,18 @@
   - `강의_6기_AI응용_4차시_05_MeanShift 트래킹.ipynb`
   - `강의_6기_AI응용_4차시_06_CamShift 트래킹.ipynb`
   - `강의_6기_AI응용_4차시_07_Lucas-Kanade.ipynb`
+- **강의_6기_AI응용_3차시_openCV_영상의 특징 검출**
+  - `강의_6기_AI응용_3차시_01_로컬동영상 기본.ipynb`
+  - `강의_6기_AI응용_3차시_02_색상 tracking 예제.ipynb`
+  - `강의_6기_AI응용_3차시_03_이진화와 특징 검출.ipynb`
+- **강의_6기_AI응용_2차시_OpenCV_기하학적 변환**
+  - `multi_layer_tutorial.ipynb`
+  - `강의_6기_AI응용_2차시_opencv_기하학적 변화.ipynb`
+  - `강의_6기_AI응용_2차시_opencv_기하학적 변화_응용.ipynb`
+- **강의_6기_AI응용_1차시_OpenCV 영상정규화 및 Object Detecion 입문**
+  - `강의_6기_AI응용_1차시_01_OpenCV 영상의 읽기쓰기.ipynb`
+  - `강의_6기_AI응용_1차시_02_OpenCV 색상의 검출 및 히스토그램.ipynb`
+  - `강의_6기_AI응용_1차시_03_OpenCV 영상의 읽기쓰기.ipynb`
 
 ## 시작 가이드 (Getting Started)
 1. **Clone Repository**

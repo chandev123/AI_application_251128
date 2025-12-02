@@ -37,3 +37,24 @@
 !강의_6기_AI응용_4차시_추적 알고리즘 실습/tracking_result_imgs/
 !강의_6기_AI응용_4차시_추적 알고리즘 실습/tracking_result_imgs/*
 
+# ==========================
+# Session 3: Feature Detection
+# ==========================
+!강의_6기_AI응용_3차시_openCV_영상의 특징 검출/
+!강의_6기_AI응용_3차시_openCV_영상의 특징 검출/*.ipynb
+
+# Exclude specific large file (>100MB)
+강의_6기_AI응용_3차시_openCV_영상의 특징 검출/강의_6기_AI응용_3차시_01_로컬동영상 기본.ipynb
+
+# ==========================
+# Session 2: Geometric Transformations
+# ==========================
+!강의_6기_AI응용_2차시_OpenCV_기하학적 변환/
+!강의_6기_AI응용_2차시_OpenCV_기하학적 변환/*.ipynb
+
+# ==========================
+# Session 1: OpenCV Intro & Object Detection
+# ==========================
+!강의_6기_AI응용_1차시_OpenCV 영상정규화 및  Object Detecion 입문/
+!강의_6기_AI응용_1차시_OpenCV 영상정규화 및  Object Detecion 입문/*.ipynb
+

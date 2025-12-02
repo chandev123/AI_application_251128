@@ -15,6 +15,14 @@
 - **강의_6기_AI응용_7차시_이미지생성형AI : 251201**
   - `강의_6기_AI응용_7차시_01_dcgan.ipynb`: DCGAN 실습 노트북
   - `강의_6기_AI응용_7차시_02_pix2pix.ipynb`: Pix2Pix 실습 노트북
+- **강의_6기_AI응용_6차시_신경망 스타일 전이**
+  - `강의_6기_AI응용_6차시_01_GramMatrix과 Loss.ipynb`
+  - `강의_6기_AI응용_6차시_02_neural_style_transfer.ipynb`
+- **강의_6기_AI응용_5차시_CNN기반 분류 앱**
+  - `강의_6기_AI응용_5차시_01_Lenet.ipynb`
+  - `강의_6기_AI응용_5차시_02_transfer_learning_alexnet_20251126.ipynb`
+  - `강의_6기_AI응용_5차시_03_vgg13_pretrained.ipynb`
+  - `강의_6기_AI응용_5차시_04_GoogLeNet.ipynb`
 
 ## 시작 가이드 (Getting Started)
 1. **Clone Repository**

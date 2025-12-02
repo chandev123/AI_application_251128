@@ -23,6 +23,14 @@
   - `강의_6기_AI응용_5차시_02_transfer_learning_alexnet_20251126.ipynb`
   - `강의_6기_AI응용_5차시_03_vgg13_pretrained.ipynb`
   - `강의_6기_AI응용_5차시_04_GoogLeNet.ipynb`
+- **강의_6기_AI응용_4차시_추적 알고리즘 실습**
+  - `강의_6기_AI응용_4차시_01_특징자와 매칭.ipynb`
+  - `강의_6기_AI응용_4차시_02_background.ipynb`
+  - `강의_6기_AI응용_4차시_03_optical_flow.ipynb`
+  - `강의_6기_AI응용_4차시_04_visualize_optical_flow.ipynb`
+  - `강의_6기_AI응용_4차시_05_MeanShift 트래킹.ipynb`
+  - `강의_6기_AI응용_4차시_06_CamShift 트래킹.ipynb`
+  - `강의_6기_AI응용_4차시_07_Lucas-Kanade.ipynb`
 
 ## 시작 가이드 (Getting Started)
 1. **Clone Repository**

@@ -1,31 +1,46 @@
-﻿# Ignore everything by default
+﻿# ==========================
+# Global Settings
+# ==========================
+# Ignore everything by default
 *
+
+# Allow configuration and documentation files
 !.gitignore
 !README.md
 
-# Allow the specific directory to be traversed
+# ==========================
+# Session 7: Image Generation AI
+# ==========================
+# Allow directory traversal
 !강의_6기_AI응용_7차시_이미지생성형AI/
 
-# Ignore everything inside the target directory
+# Ignore everything inside first, then allow specific items
 강의_6기_AI응용_7차시_이미지생성형AI/*
 
-# Allow .ipynb files inside the target directory
+# Allow Notebooks
 !강의_6기_AI응용_7차시_이미지생성형AI/*.ipynb
 
-# Allow dcgan_img_mnist directory and its contents
+# Allow Image Directory and its contents
 !강의_6기_AI응용_7차시_이미지생성형AI/dcgan_img_mnist/
 !강의_6기_AI응용_7차시_이미지생성형AI/dcgan_img_mnist/*
 
-# Allow Session 6 notebooks
+# Explicitly ignore specific files in this directory
+강의_6기_AI응용_7차시_이미지생성형AI/DR*
+
+# ==========================
+# Session 6: Neural Style Transfer
+# ==========================
 !강의_6기_AI응용_6차시_신경망 스타일 전이/
 !강의_6기_AI응용_6차시_신경망 스타일 전이/*.ipynb
 
-# Allow Session 5 notebooks
+# ==========================
+# Session 5: CNN Classification App
+# ==========================
 !강의_6기_AI응용_5차시_CNN기반 분류 앱/
 !강의_6기_AI응용_5차시_CNN기반 분류 앱/*.ipynb
 
-# Explicitly ignore files starting with DR in the target directory (even if they are .ipynb)
-강의_6기_AI응용_7차시_이미지생성형AI/DR*
-
+# ==========================
+# Global Exclusions
+# ==========================
 # Ignore files containing specific name
 *천창환*

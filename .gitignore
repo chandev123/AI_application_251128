@@ -39,8 +39,3 @@
 !강의_6기_AI응용_5차시_CNN기반 분류 앱/
 !강의_6기_AI응용_5차시_CNN기반 분류 앱/*.ipynb
 
-# ==========================
-# Global Exclusions
-# ==========================
-# Ignore files containing specific name
-*천창환*

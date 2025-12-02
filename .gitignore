@@ -11,21 +11,11 @@
 # ==========================
 # Session 7: Image Generation AI
 # ==========================
-# Allow directory traversal
 !강의_6기_AI응용_7차시_이미지생성형AI/
-
-# Ignore everything inside first, then allow specific items
-강의_6기_AI응용_7차시_이미지생성형AI/*
-
-# Allow Notebooks
 !강의_6기_AI응용_7차시_이미지생성형AI/*.ipynb
 
-# Allow Image Directory and its contents
 !강의_6기_AI응용_7차시_이미지생성형AI/dcgan_img_mnist/
 !강의_6기_AI응용_7차시_이미지생성형AI/dcgan_img_mnist/*
-
-# Explicitly ignore specific files in this directory
-강의_6기_AI응용_7차시_이미지생성형AI/DR*
 
 # ==========================
 # Session 6: Neural Style Transfer

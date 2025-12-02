@@ -26,3 +26,6 @@
 
 # Explicitly ignore files starting with DR in the target directory (even if they are .ipynb)
 강의_6기_AI응용_7차시_이미지생성형AI/DR*
+
+# Ignore files containing specific name
+*천창환*

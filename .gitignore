@@ -8,6 +8,21 @@
 !.gitignore
 !README.md
 
+
+
+
+# ==========================
+# Session 9: 3D Rendering
+# ==========================
+!강의_6기_AI응용_9차시_3D렌더링/
+!강의_6기_AI응용_9차시_3D렌더링/*.ipynb
+
+# ==========================
+# Session 8: Image Captioning
+# ==========================
+!강의_6기_AI응용_8차시_이미지캡셔닝/
+!강의_6기_AI응용_8차시_이미지캡셔닝/*.ipynb
+
 # ==========================
 # Session 7: Image Generation AI
 # ==========================
@@ -45,6 +60,7 @@
 
 # Exclude specific large file (>100MB)
 강의_6기_AI응용_3차시_openCV_영상의 특징 검출/강의_6기_AI응용_3차시_01_로컬동영상 기본.ipynb
+
 
 # ==========================
 # Session 2: Geometric Transformations
